@@ -35,7 +35,7 @@ With the channels detected, you will be able to navigate through the TV guide. L
 1. Your mother asked you to get her a glass of water. Pause the show, it will be waiting for you once you get back.
    * Press the *PAUSE* button in the central area of the controller.
    * Once you return, press *PLAY* and resume your show.
-1. If you missed something because you had to pick up a phone call, you can just rewind and watch it again!
+1. If you missed something because you had to answer a phone call, you can just rewind and watch it again!
    * Press the *REWIND* button.
 1. Have you already watched this part? fast-forward to the part you want to watch.
      * Press *FAST-FORWARD* to advance
