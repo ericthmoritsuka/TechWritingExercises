@@ -50,6 +50,6 @@ public static String insert(String s, String insert, int offset)
 
 
 -> Considerations
-I have to read about writing Javadoc. I will the guidelines provided to see if there is an example there.
+I have to read about writing Javadoc. I will use the guidelines provided to see if there is an example there.
 Do I write the .java file or do I place it in the .md file?
 Do I write the example of the function working in the Javadoc or was it just to understand its use?
