@@ -1,0 +1,55 @@
+Tech Writing Exercise 3: Javadoc (15 min)
+
+The insert(...) method below needs Javadoc. The behavior of the method is demonstrated as follows ...
+
+
+String s = "happy day";
+
+System.out.println(StringUtil.insert(s, " birth", 6)); // prints "happy birthday"
+
+System.out.println(StringUtil.insert(null, " birth", 6)); // prints "null"
+
+
+Fill in the Javadoc for the insert(...) method. Use the Liferay Javadoc Guidelines as a reference.
+
+
+
+/**
+
+*
+
+*
+
+*
+
+*	@param s
+
+*	
+
+*	@param insert
+
+*	
+
+*	@param offset
+
+*	
+
+*	@return
+
+*
+
+*/
+
+public static String insert(String s, String insert, int offset)
+
+{
+
+...
+
+}
+
+
+-> Considerations
+I have to read about writing Javadoc. I will the guidelines provided to see if there is an example there.
+Do I write the .java file or do I place it in the .md file?
+Do I write the example of the function working in the Javadoc or was it just to understand its use?

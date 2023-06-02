@@ -1,0 +1,15 @@
+Tech Writing Exercise 2: (20 min)
+Sometimes, documentation is submitted by those for whom English is a challenging
+communication medium. You may also be called upon to edit a peer’s documentation. We call
+this “wordsmithing.”
+Below is a real-world example of documentation submitted by a non-native English speaking
+writer. To the best of your ability, please wordsmith this documentation so that it is clear,
+concise, and understandable. Hint: your word count when finished should be lower than the
+original text
+
+-> Considerations
+well... let's see what I can do with what I got.
+??? do I have to format the text as well?
+It is all broken when I copy from the pdf. I should find a way to import it to .doc and then copy it.
+??? do I alter part of the essence of the text?
+I will rewrite part of it and use part of it. I need to check for grammar, spelling, word order, vocabulary usage, and other things.

@@ -1,0 +1,27 @@
+Tech Writing Exercise 1: (20 min)
+Write part of a tutorial that includes an introduction and two sections for a manual on how to
+use a DVR. Instructions should be well-organized and clear. Since reading instruction manuals
+can be boring, try to liven things up through good organization, enthusiasm, or maybe even
+humor.
+● Introduction: Summarize the content in the sections that follow.
+● Section 1: Explain DVR playback (including play, stop, pause, fast-forward, and rewind).
+● Section 2: Explain how to record a TV show.
+
+-> Considerations
+
+I have never used a DVR before!!! I have no idea how it works... I will have to research a little first and come up with a solution to finish it on time. I will probably have to create some of the commands from my own mind.
+
+???Do I want to be funny? Is it going to be good for the text, will I look more approachable if I try to lighten things up with some humor?
+
+1
+-Introduction congratulating the customer for buying the product.
+-what is a dvr and its advantages.
+Section 1
+-I will suppose the user has already set up the device etc.
+-tell users about the basic functions.
+-use pictures to point to the buttons of a controller and explain what they do (maybe it will take too much time)
+-It should be simple.
+Section 2
+-some screenshots to show users how to record a tv show. I don't think I have time to make something this elaborate. Maybe some unordered items in a list.
+
+???Am I allowed to use images?
