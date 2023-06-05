@@ -17,7 +17,7 @@ This will never happen to you again because now you are a proud owner of a **Zon
 
 
 ### What is a DVR?
-A DVR (Digital Video Recorder) is a device used to record and store television programs or video signals (analogic or digital). 
+A DVR (Digital Video Recorder) is a device used to record and store television programs or video signals (analog or digital). 
 
 It allows you to watch, pause, rewind, and record live TV broadcasts. It is just like magic, but better. Here's a general guide on how to use your brand-new device!
 
